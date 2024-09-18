@@ -16,4 +16,5 @@ public class Welcomer{
 	public String sayHunter(){
 		return "When the first hunter succumbed to the curse of blood, nightmare filled the streets of Yarnam.";
 	}
+	
 }
